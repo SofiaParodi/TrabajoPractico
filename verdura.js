@@ -1,0 +1,1 @@
+console.log("hola verduras manza banana pomelo y lentejas");
